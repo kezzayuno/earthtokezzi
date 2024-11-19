@@ -18,6 +18,11 @@ if the link is a downloadable file, prefix is "download" then the downloadable f
 
 for example: "download [test](...) for use."
 
+## bulletpoints
+
+use "-", not "*".
+end all bulletpoints with a period (.).
+
 ## grammar
 
 lowercased everything. present tense. minimal passive voice, active voice is ideal and preferred. straightforward and simple writing (for example, no unnecessary descriptives and avoidance of market talk).
@@ -35,6 +40,8 @@ italics when: name of a product such as a song, book, film, etc.
 underline when: rarely, pretty much never used.
 
 caps when: if the name warrants caps, other than that, no caps.
+
+quotations: use double quotes ("). only switch to single quotes ('), if needed.
 
 ## league of legends specifics
 
