@@ -1,6 +1,6 @@
 # about me
 
-hello. i am a kezziah ayuno, currently a technical writer working at [digitalocean]. i went to the [university of alberta] (canadian.), and graduated with a double major in computing science and psychology (with distinction) alongside two certificates in research (psychology and social sciences).
+hello. i am a kezziah ayuno, currently a technical writer working at [digitalocean]. i went to the [university of alberta] (canadian), and graduated with a double major in computing science and psychology (with distinction) alongside two certificates in research (psychology and social sciences).
 
 my current overview skill set: 
 - 2022-present technical writing (particularly in the tech industry): content development, doc maintenance, collabs and direct communication with stakeholders (for example, pms) and other technical writers. see my [technical writing lessons] to see everything ive learned working as a technical writer.
@@ -18,9 +18,9 @@ outdated skill set:
 - psychopy, matlab, jasp, and firestore
 
 see [linkedin] for the most up-to-date info. 
-download [resume], if needed. last updated: 2024-11-19. TODO: will be a .zip
+download [resume], if needed. last updated: 2024 19 nov.
 see [github] for current projects.
-download [portfolio] for collection of writing projects. last updated: 2024-11-19. TODO: will be a .zip
+download [portfolio] for collection of writing projects. last updated: 2024 19 nov.
 
 ## hobbies
 

@@ -2,7 +2,22 @@
 
 ## terminology
 
+- earthtokezzi
+
 everything is lowercased.
+
+abbreviations used without fully writing them out: 
+- ai: artifical intelligence.
+- ml: machine learning.
+- pm: product manager.
+- js: javascript.
+- calendar months like: jan, feb, mar, apr, may, jun, jul, aug, oct, nov, dec.
+
+## dates
+
+year-month-day. for example, "2024-11-13".
+
+year day month. for example, "2024 13 nov". preferred with abbreviated month.
 
 ## tone
 
@@ -24,6 +39,12 @@ use "-", not "*".
 end all bulletpoints with a period (.).
 
 ## grammar
+
+emojis used sparingly.
+
+never use e.g.: use "for example" or similar. 
+
+never use i.e.: use "as in" or similar.
 
 lowercased everything. present tense. minimal passive voice, active voice is ideal and preferred. straightforward and simple writing (for example, no unnecessary descriptives and avoidance of market talk).
 
