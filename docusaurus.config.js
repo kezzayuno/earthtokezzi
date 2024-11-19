@@ -8,6 +8,8 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'kezzayuno',
   projectName: 'earthtokezzi',
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
   presets: [
     [
       '@docusaurus/preset-classic',
