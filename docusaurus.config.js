@@ -1,24 +1,26 @@
 module.exports = {
   title: 'earthtokezzi',
   tagline: 'Test tagline',
-  url: 'https://earthtokezzi.github.io',
+  url: 'https://kezzayuno.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationname: 'kezzayuno',
+  organizationName: 'kezzayuno',
   projectName: 'earthtokezzi',
   presets: [
-    '@docusaurus/preset-classic',
-    {
-      docs: {
-        sidebarPath: require.resolve('./sidebars.js'),
-        editUrl: 'https://github.com/kezzayuno/earthtokezzi/edit/main/',
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          editUrl: 'https://github.com/kezzayuno/earthtokezzi/edit/main/',
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
       },
-      theme: {
-        customCss: require.resolve('./src/css/custom.css'),
-      },
-    },
+    ],
   ],
   themeConfig: {
     navbar: {
