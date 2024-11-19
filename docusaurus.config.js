@@ -2,7 +2,7 @@ module.exports = {
   title: 'earthtokezzi',
   tagline: 'Test tagline',
   url: 'https://kezzayuno.github.io',
-  baseUrl: '/earthtokezzi/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
