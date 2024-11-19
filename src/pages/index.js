@@ -7,4 +7,4 @@ export default function Home() {
       <p>Simplified text.</p>
     </div>
   );
-}
+};
