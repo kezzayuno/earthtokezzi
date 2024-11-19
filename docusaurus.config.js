@@ -14,10 +14,6 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/kezzayuno/earthtokezzi/edit/main/',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -32,17 +28,12 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'test',
-          position: 'left',
-          label: 'Docs',
-        },
-        {
-          href: 'https://github.com/kezzayuno/earthtokezzi',
-          label: 'GitHub',
-          position: 'right',
-        },
+        { to: '/music', label: 'all things music', position: 'left' },
+        { to: '/cooking', label: 'all things cooking', position: 'left' },
+        { to: '/tech-writing', label: 'all things tech writing', position: 'left' },
+        { to: '/league', label: 'all things league of legends', position: 'left' },
+        { to: '/style', label: 'earthtokezzi style guide', position: 'left' },
+        { to: '/about', label: 'all things about me', position: 'left' },
       ],
     },
     footer: {
