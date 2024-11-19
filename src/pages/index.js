@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from '@docusaurus/Link'
 
 export default function Home() {
   return (
@@ -8,22 +9,22 @@ export default function Home() {
       <nav>
         <ul>
           <li>
-            <a href="/music">all things music</a>
+            <Link to="/music">all things music</Link>
           </li>
           <li>
-            <a href="/cooking">all things cooking</a>
+            <Link to="/cooking">all things cooking</Link>
           </li>
           <li>
-            <a href="/tech-writing">all things tech writing</a>
+            <Link to="/tech-writing">all things tech writing</Link>
           </li>
           <li>
-            <a href="/league">all things league of legends</a>
+            <Link to="/league">all things league of legends</Link>
           </li>
           <li>
-            <a href="/style">earthtokezzi style guides</a>
+            <Link to="/style">earthtokezzi style guides</Link>
           </li>
           <li>
-            <a href="/about">all things about me</a>
+            <Link to="/about">all things about me</Link>
           </li>
         </ul>
       </nav>
