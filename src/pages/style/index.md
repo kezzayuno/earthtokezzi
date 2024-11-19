@@ -12,11 +12,11 @@ casual and friendly.
 
 when you're linking external or internally, either incorporate it into the sentence as you see fit or start the link sentence with "see" followed by the link.
 
-for example: "see [test](...) for more information."
+for example: "see [test] for more information."
 
 if the link is a downloadable file, prefix is "download" then the downloadable file. 
 
-for example: "download [test](...) for use."
+for example: "download [test] for use."
 
 ## bulletpoints
 
