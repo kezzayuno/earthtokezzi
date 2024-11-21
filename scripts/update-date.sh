@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # This script updates date to the last edited.
+# Run the script from the root directory like this: ./scripts/update-date.sh
 
 DOCS_DIR = "src/pages"
 
