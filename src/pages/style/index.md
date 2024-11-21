@@ -20,7 +20,7 @@ description: style guidelines for earthtokezzi website.
 
 ...
 
-mention the automated date updater script (link to it).
+mention the automated date updater script (link to it) > need to make sure that this automated script runs after i push to repo
 
 ### description
 
