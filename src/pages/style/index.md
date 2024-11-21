@@ -4,6 +4,12 @@ date: 2024-11-19
 description: style guidelines for earthtokezzi website.
 ---
 
+## features
+
+## hover preview 
+
+...
+
 ## frontmatter 
 
 ### title
