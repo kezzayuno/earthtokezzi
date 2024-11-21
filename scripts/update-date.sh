@@ -11,13 +11,13 @@ find "$DOCS_DIR" -type f -name "*.md" | while read file; do
     LAST_UPDATED_DATE = $(git log -1 --format="%ad" --date=iso "$file" || echo "Untracked file")
     
     # Check if the file is untracked 
-    if [ "$LAST_UPDATED_DATE" == "Untracked file" ]; then
+    if [ "$LAST_UPDATED" == "Untracked file" ]; then
         echo "Skipping untracked file: $file."
         continue
     fi
 
     # Check if the file already has a 'date' field
-    if grep -q "^date:" "$file"; then
+    if grep -q "^date: " "$file"; then
         # Update the existing 'date' field
         sed -i '' "s/^date: .*/date: \"$LAST_UPDATED\"/" "$file"
     else
@@ -25,6 +25,6 @@ find "$DOCS_DIR" -type f -name "*.md" | while read file; do
         sed -i '' "1s/^/date: \"$LAST_UPDATED\"\n/" "$file"
     fi
 
-    echo "Updated date for $file to $LAST_UPDATED_DATE."
+    echo "Updated date for $file to $LAST_UPDATED."
 done
 
