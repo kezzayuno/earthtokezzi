@@ -1,4 +1,8 @@
-# earthtokezzi style guide
+---
+title: style guide
+date: 2024-11-19
+description: style guidelines for earthtokezzi website.
+---
 
 ## terminology
 
@@ -11,13 +15,14 @@ abbreviations used without fully writing them out:
 - ml: machine learning.
 - pm: product manager.
 - js: javascript.
+- ui: user interface.
 - calendar months like: jan, feb, mar, apr, may, jun, jul, aug, oct, nov, dec.
 
 ## dates
 
 year-month-day. for example, "2024-11-13".
 
-year day month. for example, "2024 13 nov". preferred with abbreviated month.
+year day month. for example, "2024 13 nov". always with abbreviated month. preferred format.
 
 ## tone
 
@@ -42,9 +47,11 @@ end all bulletpoints with a period (.).
 
 emojis used sparingly.
 
+never use "na" or "n/a": use none.
+
 never use e.g.: use "for example" or similar. 
 
-never use i.e.: use "as in" or similar.
+never use i.e.: use "as in", "namely", or similar.
 
 lowercased everything. present tense. minimal passive voice, active voice is ideal and preferred. straightforward and simple writing (for example, no unnecessary descriptives and avoidance of market talk).
 
