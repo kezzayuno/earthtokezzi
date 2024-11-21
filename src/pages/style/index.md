@@ -4,6 +4,42 @@ date: 2024-11-19
 description: style guidelines for earthtokezzi website.
 ---
 
+## frontmatter 
+
+### title
+
+...
+
+### date 
+
+...
+
+mention the automated date updater script (link to it).
+
+### description
+
+...
+
+### tags
+
+...
+
+not coded yet
+
+## headers
+
+never use level 1 (#) headers. 
+
+prioritize using level 2 (##) headers and if needed, level 3 (###) headers.
+
+sparingly use headers beyond level 3. 
+
+never use bolded, italics, or underlined text as a replacement for headers. 
+
+keep header text plain (namely, no bolded, italics, or underlined text).
+
+prioritize keeping the headers short.
+
 ## terminology
 
 - earthtokezzi
@@ -73,8 +109,20 @@ quotations: use double quotes ("). only switch to single quotes ('), if needed.
 
 ## league of legends specifics
 
-TODO
+...
 
 ## cooking specifics
 
-TODO
+...
+
+## entertainment specifics
+
+...
+
+## music specifics
+
+...
+
+## technical writing specifics
+
+...
