@@ -12,6 +12,9 @@ export default function Home() {
             <Link to="/music">all things music</Link>
           </li>
           <li>
+            <Link to="/entertainment">all things entertainment</Link>
+          </li>
+          <li>
             <Link to="/cooking">all things cooking</Link>
           </li>
           <li>

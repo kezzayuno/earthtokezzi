@@ -30,10 +30,11 @@ module.exports = {
       },
       items: [
         { to: '/music', label: 'all things music', position: 'left' },
+        { to: '/entertainment', label: 'all things entertainment', position: 'left' },
         { to: '/cooking', label: 'all things cooking', position: 'left' },
         { to: '/tech-writing', label: 'all things tech writing', position: 'left' },
         { to: '/league', label: 'all things league of legends', position: 'left' },
-        { to: '/style', label: 'earthtokezzi style guide', position: 'left' },
+        { to: '/style', label: 'style guide', position: 'left' },
         { to: '/about', label: 'all things about me', position: 'left' },
       ],
     },
