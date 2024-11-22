@@ -21,7 +21,7 @@ outdated skill set:
 - c, go
 - psychopy, matlab, jasp, and firestore
 
-see [linkedin] for the most up-to-date info. 
+see [linkedin](https://www.linkedin.com/in/kezziahayuno/) for the most up-to-date info. 
 download [resume], if needed. last updated: 2024 19 nov.
 see [github] for current projects.
 download [portfolio] for collection of writing projects. last updated: 2024 19 nov.
