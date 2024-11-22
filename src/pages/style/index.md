@@ -87,6 +87,8 @@ end all bulletpoints with a period (.).
 
 ## grammar
 
+do not use accents.
+
 emojis used sparingly.
 
 never use "na" or "n/a": use none.
