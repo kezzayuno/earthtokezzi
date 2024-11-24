@@ -7,7 +7,6 @@ description: watchlist.
 ## Current Watch
 
 - BLEACH (2004-2012).
-- Oshi No Ko Season 2 (2024).
 - Ranma 1/2 Remake (2024).
 - Dandadan (2024).
 - Yakuza Fiance (2024).
