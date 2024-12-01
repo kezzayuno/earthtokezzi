@@ -6,4 +6,5 @@ description: watched list.
 
 as of 2024 Nov.
 
-- Oshi No Ko Season 2 (2024).
+- oshi no ko s2 (2024).
+- arcane s2 (2024).

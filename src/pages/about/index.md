@@ -2,6 +2,8 @@
 title: about me
 date: 2024-11-20
 description: about info.
+tags: 
+    - digitalocean
 ---
 
 hello. i am a kezziah ayuno, currently a technical writer working at [digitalocean]. i went to the [university of alberta] (canadian), and graduated with a double major in computing science and psychology (with distinction) alongside two certificates in research (psychology and social sciences).

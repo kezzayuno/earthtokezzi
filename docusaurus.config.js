@@ -22,6 +22,9 @@ module.exports = {
     ],
   ],
   themeConfig: {
+    themeConfig: {
+      customCss: require.resolve('./src/css/custom.css'),
+    },
     navbar: {
       title: 'earthtokezzi',
       logo: {
